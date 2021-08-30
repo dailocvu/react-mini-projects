@@ -1,3 +1,3 @@
 # Scoreboard - mini project
 
-<img src="./screenshots/img.png" width="600">
+<img src="././screenshots/img.png" width="600">
